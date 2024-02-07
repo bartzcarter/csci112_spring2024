@@ -1,0 +1,37 @@
+TEST 1 (10 points): Source file exists
+PASS
+
+TEST 2 (10 points): Source file compiles
+PASS
+
+TEST 3 (10 points): Source file compiles without warnings
+PASS
+
+TEST 4 (5 points): includes stdio
+PASS
+
+TEST 5 (5 points): defines a constant macro
+PASS
+
+TEST 6 (5 points): prompt to user matches exactly
+PASS
+
+TEST 7 (5 points): output matches exactly
+PASS
+
+TEST 8 (10 points): prints temperature with exactly 2 decimal places
+PASS
+
+TEST 9 (40 points): computes correct temperature for 4 test cases
+2 hours, 30 minutes: 
+PASS
+3 hours, 0 minutes: 
+PASS
+4 hours, 15 minutes: 
+PASS
+0 hours, 59 minutes: 
+PASS
+
+Total score: 100/100
+Last updated on:
+Sat Jan 27 01:18:05 PM MST 2024

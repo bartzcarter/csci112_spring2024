@@ -1,0 +1,52 @@
+TEST 1 (5 points): Source file exists
+PASS
+
+TEST 2 (10 points): defines function within_x_percent to take in three doubles and return an int
+PASS
+
+TEST 3 (10 points): the function within_x_percent returns 1 if the data value is within percent of the ref value and 0 otherwise
+PASS
+(this one is hard to autograde so we are giving it to you for free :)
+
+TEST 4 (10 points): calls function within_x_percent decide what the substance is
+PASS
+
+TEST 5 (5 points): 5: the user is prompted to give a custom error percent; if not, uses default of 5%
+PASS
+
+TEST 6 (5 points): accepts n and N for no and y and Y for yes for giving a custom error percent
+PASS
+
+TEST 7 (10 points): for everything else, prints Error: bad input and quits the program
+PASS
+
+TEST 8 (5 points): prompts to user match exactly
+PASS
+
+TEST 9 (5 points): outputs to user match exactly
+PASS
+
+TEST 10 (10 points): prints the correct substance given the temperature and error bound. If multiple match, prints the one with the smaller boiling point.
+102 temp, 5 percent: 
+PASS
+500 temp, 5 percent: 
+PASS
+404 temp, 20 percent: 
+PASS
+2291 temp, 55 percent: 
+PASS
+1101 temp, 10 percent: 
+PASS
+
+TEST 11 (10 points): prints the message Substance unknown if the entered temperature is not within the given percent of any of the substances’ boiling points.
+PASS
+
+(10 points): Source file compiles
+PASS
+
+(5 points): Source file compiles without warnings
+PASS
+
+Total score: 100/100
+Last updated on:
+Tue Feb  6 04:52:35 PM MST 2024

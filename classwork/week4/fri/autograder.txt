@@ -1,0 +1,22 @@
+TEST 1: Source file exists
+PASS
+
+TEST 2: Source file compiles without warnings
+PASS
+
+TEST 3: program gives correct output
+For input -95 101.22 55.5:
+PASS
+
+For input 101 x:
+PASS
+
+For input 3.145:
+PASS
+
+For input hello:
+PASS
+
+full credit
+Last updated on:
+Tue Feb  6 03:18:52 PM MST 2024
