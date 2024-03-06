@@ -1,0 +1,56 @@
+Beaverhead County has population 9,719 and seat Dillon
+Big Horn County has population 12,851 and seat Hardin
+Blaine County has population 6,936 and seat Chinook
+Broadwater County has population 7,793 and seat Townsend
+Carbon County has population 11,179 and seat Red Lodge
+Carter County has population 1,382 and seat Ekalaka
+Cascade County has population 84,864 and seat Great Falls
+Chouteau County has population 5,898 and seat Fort Benton
+Custer County has population 12,032 and seat Miles City
+Daniels County has population 1,628 and seat Scobey
+Dawson County has population 8,830 and seat Glendive
+Deer Lodge County has population 9,510 and seat Anaconda
+Fallon County has population 3,011 and seat Baker
+Fergus County has population 11,663 and seat Lewistown
+Flathead County has population 111,814 and seat Kalispell
+Gallatin County has population 124,857 and seat Bozeman
+Garfield County has population 1,218 and seat Jordan
+Glacier County has population 13,681 and seat Cut Bank
+Golden Valley County has population 835 and seat Ryegate
+Granite County has population 3,502 and seat Philipsburg
+Hill County has population 16,068 and seat Havre
+Jefferson County has population 12,826 and seat Boulder
+Judith Basin County has population 2,105 and seat Stanford
+Lake County has population 32,853 and seat Polson
+Lewis and Clark County has population 73,832 and seat Helena
+Liberty County has population 1,972 and seat Chester
+Lincoln County has population 21,525 and seat Libby
+Madison County has population 9,265 and seat Virginia City
+McCone County has population 1,709 and seat Circle
+Meagher County has population 2,013 and seat White Sulphur Springs
+Mineral County has population 5,058 and seat Superior
+Missoula County has population 121,041 and seat Missoula
+Musselshell County has population 5,197 and seat Roundup
+Park County has population 17,790 and seat Livingston
+Petroleum County has population 524 and seat Winnett
+Phillips County has population 4,240 and seat Malta
+Pondera County has population 6,078 and seat Conrad
+Powder River County has population 1,725 and seat Broadus
+Powell County has population 7,051 and seat Deer Lodge
+Prairie County has population 1,107 and seat Terry
+Ravalli County has population 47,298 and seat Hamilton
+Richland County has population 11,237 and seat Sidney
+Roosevelt County has population 10,572 and seat Wolf Point
+Rosebud County has population 8,088 and seat Forsyth
+Sanders County has population 13,442 and seat Thompson Falls
+Sheridan County has population 3,564 and seat Plentywood
+Silver Bow County has population 36,068 and seat Butte
+Stillwater County has population 9,177 and seat Columbus
+Sweet Grass County has population 3,715 and seat Big Timber
+Teton County has population 6,368 and seat Choteau
+Toole County has population 5,082 and seat Shelby
+Treasure County has population 758 and seat Hysham
+Valley County has population 7,513 and seat Glasgow
+Wheatland County has population 2,032 and seat Harlowton
+Wibaux County has population 919 and seat Wibaux
+Yellowstone County has population 169,852 and seat Billings
