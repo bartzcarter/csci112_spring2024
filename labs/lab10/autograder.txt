@@ -1,0 +1,37 @@
+TEST 1 (10 points): make compiles the executable lab10 without warnings
+PASS
+
+TEST 2 (10 points): make clean removes executable and all .o files
+PASS
+
+TEST 3 (10 points): defines a Character struct in a header file
+PASS
+
+TEST 4 (10 points): defines a function fight that takes in two pointers to Characters
+PASS
+
+TEST 5 (5 points): uses log10 function
+PASS
+
+TEST 6 (5 points): uses round function
+PASS
+
+TEST 7 (5 points): has at least two .c files
+PASS
+
+TEST 8 (5 points): has at least one .h files
+PASS
+
+TEST 9 (40 points): correct outputs for each input
+	for input: Bowser 10 10 Mario 5 5
+	PASS
+	for input: Bowser 50 100 Mario 20 100
+	PASS
+	for input: Mario 22 100 Bowser 22 100
+	PASS
+	for input: Mario 85 80 Peach 90 90
+	PASS
+
+Total score: 100/100
+Last updated on:
+Fri Apr 12 08:06:00 PM MDT 2024
