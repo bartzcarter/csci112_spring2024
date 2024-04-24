@@ -1,0 +1,7 @@
+1. How many memory errors are there?
+	-There are two memory errors detected. 
+2. How many memory leaks are there?
+	-There are three memory leaks detected.
+3. Describe the memory errors. What sort of thing do you think caused them? How do you know?
+	1) Invalid read of size 4: Valgrind reports that the program attempted to read 4 bytes of memory that were previously freed. The address 0x4a55040 is mentioned, indicating that the invalid read occurred at this address. This error likely occurred because the program attempted to access memory that was deallocated (freed) earlier.
+	2)Invalid write of size 4: Valgrind reports that the program attempted to write 4 bytes of memory that were allocated but not within the bounds of the allocated block. The address 0x4a550b8 is mentioned, indicating that the invalid write occurred at this address. This error likely occurred because the program attempted to write beyond the bounds of a dynamically allocated memory block.
